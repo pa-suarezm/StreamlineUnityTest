@@ -5,6 +5,9 @@ IMPORTANT
 The scene where my answer to this test is can be found in
 Assets > Scenes > Level0.unity
 
+All materials used were taken from polyhaven.com
+Everything else in this test was made by me
+
 Controls:
 WASD to roll the sphere
 Mouse to move the camera around the sphere
