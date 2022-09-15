@@ -1,6 +1,10 @@
 Streamline Studios Unity Test
 Pablo Suarez
 
+IMPORTANT
+The scene where my answer to this test is can be found in
+Assets > Scenes > Level0.unity
+
 Controls:
 WASD to roll the sphere
 Mouse to move the camera around the sphere
